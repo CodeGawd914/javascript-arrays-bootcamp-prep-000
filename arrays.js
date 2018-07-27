@@ -31,4 +31,4 @@ var chocolateBars = [
   array.pop()
   return array 
    }
-   
+function 
