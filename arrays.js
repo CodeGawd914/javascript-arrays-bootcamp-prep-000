@@ -27,3 +27,4 @@ var chocolateBars = [
    array.slice(1)
    return array
  }
+ function 
