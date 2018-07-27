@@ -19,5 +19,5 @@ var chocolateBars = [
  return array
  }
  function accessElementInArray(array,element){
-   return 
+   return (chocolateBars[3]) 
  }
