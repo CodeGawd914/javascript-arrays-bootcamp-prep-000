@@ -21,5 +21,5 @@ var chocolateBars = [
  function accessElementInArray(array,element){
    return array[2]
  }
- function destructivelyRemoveElementFromBeginningOfArray(array) { return 
+ function destructivelyRemoveElementFromBeginningOfArray(array) { return array.shift()
  
